@@ -1,4 +1,3 @@
-# Weak Areas - Part 1
 ## Zip() Function
 Zip Function has following attributes:
 * Used to combine multiple **Iterable Objects** into a Single Iterable Object
